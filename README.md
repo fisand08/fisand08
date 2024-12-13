@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fisand08
-- 👀 I’m interested in cheminformatics and data siene
+- 👀 I’m interested in cheminformatics and data sciene
 - 🌱 I’m currently learning flask
 - 📫 How to reach me: LinkdedIn
 - ⚡ Fun fact: I go fishing
