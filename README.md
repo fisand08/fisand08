@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @fisand08
+- 👋 Hi, I’m @fisand08 (André Fischer)
 - 👀 I’m interested in cheminformatics and data science
-- 📫 How to reach me: LinkdedIn
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/andre-fischer-809b5353/)
 - ⚡ Fun fact: I go fishing
 
 <!---
